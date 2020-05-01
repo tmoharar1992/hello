@@ -34,6 +34,8 @@ public class First {
     public void user_is_in_the_homepage()
     {
       System.out.println(driver.getTitle()); 
+	System.out.println("this is from git"); 
+
     }
 
 }
